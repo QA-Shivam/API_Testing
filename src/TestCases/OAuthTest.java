@@ -1,3 +1,5 @@
+package TestCases;
+
 import org.testng.annotations.Test;
 
 import io.restassured.path.json.JsonPath;

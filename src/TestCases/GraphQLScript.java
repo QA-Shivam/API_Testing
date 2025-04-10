@@ -1,3 +1,5 @@
+package TestCases;
+
 import static io.restassured.RestAssured.*;
 
 import org.testng.Assert;

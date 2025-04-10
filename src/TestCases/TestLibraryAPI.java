@@ -1,8 +1,9 @@
+package TestCases;
+
 import org.json.JSONObject;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
-import groovy.util.logging.Log;
 import io.restassured.RestAssured;
 import io.restassured.path.json.JsonPath;
 import payload.dynamicTestData;

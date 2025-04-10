@@ -1,3 +1,4 @@
+package TestCases;
 
 import java.io.IOException;
 import java.nio.file.Files;
@@ -6,8 +7,6 @@ import java.util.concurrent.atomic.AtomicInteger;
 
 import org.json.JSONObject;
 import org.testng.Assert;
-
-import netscape.javascript.JSObject;
 
 public class MockResponse {
 	public static void main(String[] args) throws IOException {

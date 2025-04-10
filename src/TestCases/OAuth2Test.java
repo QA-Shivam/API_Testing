@@ -1,13 +1,10 @@
-import static io.restassured.RestAssured.*;
-
-import java.awt.RenderingHints.Key;
+package TestCases;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-import io.restassured.path.json.JsonPath;
 public class OAuth2Test {
 public static void main(String[] args) throws InterruptedException {
 	// get code
